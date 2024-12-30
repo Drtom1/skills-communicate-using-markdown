@@ -1,2 +1,6 @@
-
-![Image of a computer](https://unsplash.com/photos/a-person-using-a-laptop-computer-on-a-table-AoDMssi2UOU)
+```Javascript
+var 1 = Flower;
+var 2 = Honey;
+var 3 = Bee;
+Var Sum = Pollination;
+```
