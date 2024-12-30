@@ -1,0 +1,7 @@
+- [ ] Write PHP script
+- [x] Send to engingeers
+- [x] Push to production
+- [ ] Set up servers
+- [ ] Take a quick break
+- [ ] Bug fixes
+- [x] Coffee with Elizabeth
